@@ -1,2 +1,3 @@
 # cproxy
-cell proxy 
+---
+cell proxy link json data<==>binary data run in  gate/connect model
